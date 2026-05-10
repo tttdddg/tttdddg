@@ -1,4 +1,6 @@
-# 关于github主页和项目的简介Introduction to GitHub Profile and Projects
+# 关于Github主页和项目的简介
+# Introduction to GitHub Profile and Projects
+
 # Hi, I'm Yingyi 👋
 
 AI Application Developer focused on:
