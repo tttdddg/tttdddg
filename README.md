@@ -1,5 +1,5 @@
 # 关于Github主页和项目的简介
-# Introduction to GitHub Profile and Projects
+## Introduction to GitHub Profile and Projects
 
 # Hi, I'm Yingyi 👋
 
