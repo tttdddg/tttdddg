@@ -1,16 +1,50 @@
-## Hi there 👋
+# 关于github主页和项目的简介Introduction to GitHub Profile and Projects
+# Hi, I'm Yingyi 👋
 
-<!--
-**tttdddg/tttdddg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Application Developer focused on:
 
-Here are some ideas to get you started:
+- AI Agent
+- Tool Calling
+- AI Workflow
+- AI + IoT
+- Frontend Engineering
+- AI Product Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技术栈Tech Stack
+
+Frontend:
+- Vue3
+- React
+- TypeScript
+- ECharts
+
+Backend:
+- Spring Boot
+- Redis
+- MySQL
+
+AI:
+- LangChain4j
+- DeepSeek API
+- Prompt Engineering
+- Structured Output
+- Tool Calling
+- Skills
+
+## Featured Projects
+
+### CareerPulse
+AI career growth agent platform for resume analysis, capability evaluation and learning roadmap generation.
+
+
+## Currently Learning
+
+- AI Agent Engineering
+- Workflow Design
+- AI Product Architecture
+- RAG & Tool Ecosystem
+
+## Contact
+
+- Email: 2091445482@qq.com、yyd9041333@gmail.com
+- Number：19730587014
