@@ -39,12 +39,6 @@ AI:
 AI career growth agent platform for resume analysis, capability evaluation and learning roadmap generation.
 
 
-## Currently Learning
-
-- AI Agent Engineering
-- Workflow Design
-- AI Product Architecture
-- RAG & Tool Ecosystem
 
 ## Contact
 
