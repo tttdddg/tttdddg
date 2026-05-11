@@ -35,7 +35,7 @@ AI:
 
 ## Featured Projects
 
-### CareerPulse  （https://github.com/tttdddg/CareerPulse）
+### CareerPulse  https://github.com/tttdddg/CareerPulse
 AI career growth agent platform for resume analysis, capability evaluation and learning roadmap generation.
 
 
