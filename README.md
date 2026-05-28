@@ -22,6 +22,7 @@ Frontend:
 
 Backend:
 - Spring Boot
+- Python
 - Redis
 - MySQL
 
@@ -35,10 +36,11 @@ AI:
 
 ## Featured Projects
 
-### CareerPulse  https://github.com/tttdddg/CareerPulse
-AI career growth agent platform for resume analysis, capability evaluation and learning roadmap generation.
+### CareerPulse：AI职业成长平台  https://github.com/tttdddg/CareerPulse
 
+### DocuAgent：企业知识库RAG问答平台  https://github.com/tttdddg/ELKB-QA-System
 
+### Smart Commerce Agent：AI电商客服与导购Agent  https://github.com/tttdddg/Smart-Commerce-Agent
 
 ## Contact
 
