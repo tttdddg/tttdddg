@@ -139,8 +139,12 @@ CareerPulse 的一项核心设计是将 **Agent 的灵活性与业务服务的�
 
 📄 软件著作权 1 项 · 在申发明专利 2 项
 
-[**查看 CareerPulse 源码→**](https://github.com/tttdddg/CareerPulse-v2)
-[**查看更多技术细节 →**](https://vcnfmu2rmdc8.feishu.cn/base/O9QVb6ocia1J4JsHStwci0idnHg?from=from_copylink)
+[**查看 CareerPulse 源码**](https://github.com/tttdddg/CareerPulse-v2)
+
+
+[**查看更多技术细节 **](https://vcnfmu2rmdc8.feishu.cn/base/O9QVb6ocia1J4JsHStwci0idnHg?from=from_copylink)
+
+
 
 
 
@@ -183,6 +187,10 @@ CareerPulse 的一项核心设计是将 **Agent 的灵活性与业务服务的�
 这段经历让我第一次比较系统地接触 AI 数据生产流程，也开始关注数据规范、一致性和质量对下游模型应用的影响。
 
 后来在 RAG 和 Agent 项目中，我也越来越能体会到：**AI 系统的可靠性不仅来自模型本身，也来自背后的数据和知识质量。**
+
+
+
+
 
 ## 🔬 科研项目与创新实践
 
