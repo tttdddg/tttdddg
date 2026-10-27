@@ -1,194 +1,260 @@
-# 关于Github主页和项目的简介
-## Introduction to GitHub Profile and Projects
-
 # Hi, I'm Yingyi Deng 👋
 
-计算机科学与技术本科生，专注于 **AI 应用开发、全栈工程与 AI 产品前端**。
+一名正在探索 **AI Agent 与大模型应用开发**的计算机本，预计 2028 年毕业。
 
-Computer Science undergraduate focused on building practical AI applications across frontend, backend, and LLM integration.
+比起让大模型单纯地回答问题，我更感兴趣的是：**如何让 AI 理解真实需求、调用工具、参与业务流程，最终成为真正能解决问题的产品。**
 
-目前主要关注：
+目前主要围绕 `Python / FastAPI`、`Agent Workflow`、`RAG`、`Tool Calling` 和全栈应用开发持续实践。
 
-* 大模型应用开发 / LLM Application Development
-* AI Agent、Tool Calling 与业务系统集成
-* RAG 知识库问答与可追溯生成
-* AI 产品前端与数据可视化
-* Java / Python 全栈应用开发
-* AI + IoT 与智能设备交互
+我喜欢从实际问题出发构建产品，也在尝试将 AI 应用到职业成长、文化传承与智能交互等不同场景中。
 
-我具备企业前端实习和完整 AI 应用项目经验，能够参与从需求拆解、前端交互、后端接口、数据存储到大模型能力接入的完整开发流程。
+这里记录我的作品、实践经历和一些正在进行的技术探索。欢迎交流！
+<img width="2048" height="768" alt="40ec83f9f141be9b4087918beabb4d17" src="https://github.com/user-attachments/assets/77a622b4-f2d4-45e7-be84-37224a8d10be" />
 
-I have experience in enterprise frontend development and full-stack AI application projects, covering product interaction, backend APIs, data storage, LLM integration, and visualization.
+## 🧩 我在做什么
 
----
+目前的主要方向是 **AI Agent 应用工程**。
 
-## 🧭 Current Focus
+从最初的前端开发，到逐渐接触后端服务、数据处理和大模型应用，我开始更加关注 AI 系统从想法到实际落地的完整过程。
 
-* Building usable AI applications instead of simple API demos
-* Integrating LLMs with real business systems
-* Improving AI reliability through structured output, validation, and fallback strategies
-* Designing explainable AI interfaces and data visualizations
-* Exploring Agent workflows, RAG evaluation, and AI application engineering
+现在我主要在探索：
 
----
+**🤖 Agent 与业务系统**
 
-## 🛠️ Tech Stack
+关注 Agent 如何完成任务拆解、工具调用、业务状态管理和流程编排，而不只是依靠 Prompt 生成回答。尤其感兴趣的是大模型与确定性业务逻辑之间的协作，以及异常处理、结果校验和人工接管机制。
 
-### Frontend
+**📚 RAG 与知识工程**
 
-* Vue 3
-* React
-* TypeScript / JavaScript
-* Element Plus
-* Pinia
-* Vite
-* ECharts
-* AntV X6
-* Flutter / Dart
+关注非结构化数据如何转化为 AI 能够可靠使用的知识，包括数据清洗、文档切分、检索增强、引用溯源和效果评测。在实际业务中，知识是否准确、检索是否可靠，往往比回答是否流畅更重要。
 
-### Backend
+**💻 AI 应用的完整交付**
 
-* Java / Spring Boot
-* Python / FastAPI / Flask
-* RESTful API
-* MyBatis
-* JWT
-* WebSocket
-* MQTT
+以 Python 后端为主要学习和实践方向，同时保留前端开发能力。希望能够独立完成从需求理解、接口设计、数据管理、大模型接入到产品交互的完整开发链路。
 
-### Database & Infrastructure
+## 🚀 我的主要项目
 
-* MySQL
-* PostgreSQL
-* Redis
-* ChromaDB
-* Docker
-* Git
-* Linux
+### CareerPulse — AI 职业导航与终身学习伙伴
 
-### AI Application Development
+**一个希望让职业规划真正变成成长行动的 AI Agent 项目。**
 
-* LangChain4j / LangChain
-* DeepSeek API
-* Prompt Engineering
-* Structured Output
-* Tool Calling
-* Multi-turn Conversation
-* RAG
-* Source Citation
-* No-answer Fallback
-* Output Validation & Error Handling
+https://github.com/tttdddg/CareerPulse-v2
 
----
+#### 为什么做这个项目？
 
-## 🚀 Featured Projects
+你是否也有过这样的困惑：
 
-### CareerPulse — AI 职业规划成长平台
+知道自己大概想从事什么职业，却不清楚目标岗位真正需要哪些能力；即使拿到一份职业规划报告，也不知道接下来应该做什么，更难判断自己有没有真正进步。
 
-[View Repository](https://github.com/tttdddg/CareerPulse)
+在 CareerPulse 的前期调研中，我们收集了 **434 份学生问卷、开展了 7 场企业访谈**，发现职业规划中普遍存在三个问题：
 
-面向大学生职业规划场景的 AI 应用平台，支持简历解析、岗位画像、人岗匹配、能力差距诊断、职业路径图谱和个性化成长报告生成。
+- **看不清**：对岗位要求和自身能力缺少清晰认知。
+- **做不动**：职业建议难以转化为具体的学习和实践任务。
+- **跟不住**：职业规划往往停留在一次性报告，缺少持续反馈。
 
-An AI-powered career planning platform that transforms resumes and job descriptions into structured profiles, job-fit analysis, skill-gap insights, career paths, and personalized development reports.
+于是，我们尝试构建一个能够理解用户职业目标、分析能力差距，并陪伴用户持续成长的 AI 系统。
 
-**My Work**
+#### CareerPulse 能做什么？
 
-* 主导项目需求拆解、原型设计与核心功能开发
-* 使用 DeepSeek API 进行简历与岗位 JD 的结构化能力标签提取
-* 基于 Vue 3、TypeScript、ECharts 和 AntV X6 实现分析报告、能力雷达图与岗位路径图谱
-* 参与 FastAPI、PostgreSQL、Redis 后端接口与数据流转
-* 增加结构化结果校验、默认值处理与异常兜底机制
+CareerPulse 将职业成长组织为一个持续更新的过程：
 
-**Achievements**
+**职业认知 → 能力诊断 → 路径规划 → 行动训练 → 反馈更新**
 
-* 国家级大学生创新创业训练计划项目
-* 中国大学生服务外包创新创业大赛全国三等奖
-* 中国计算机设计大赛省级二等奖
-* 软件著作权 1 项
+主要功能包括：
 
----
+- **动态职业画像**：解析简历、项目和学习经历，结合目标岗位要求，建立可持续更新的能力画像。
+- **人岗匹配与 Gap 诊断**：识别当前能力和岗位要求之间的差距，明确优先提升方向。
+- **个性化成长路径**：将长期职业目标拆分为阶段性学习、项目实践和训练任务。
+- **职业知识与 Agent 服务**：通过 RAG、工具调用与业务服务，为职业分析提供知识和任务执行能力。
+- **成长反馈与持续调整**：记录用户的新成长证据，更新能力状态并调整后续规划。
+<img width="1930" height="822" alt="image" src="https://github.com/user-attachments/assets/e1ef06f0-5ab5-45cd-bdde-752954824d1d" />
 
-### Smart Commerce Agent — AI 电商客服与导购 Agent
 
-[View Repository](https://github.com/tttdddg/Smart-Commerce-Agent)
 
-基于开源电商系统 `mall` 进行二次开发，在原有商品、订单和会员业务基础上新增 AI Agent 能力。
 
-An AI enhancement project built on the open-source `mall` system, integrating LLM-powered customer service and shopping assistance with existing commerce APIs.
+#### 我在其中做了什么？
 
-**My Work**
+我在团队中主要负责**项目统筹、核心系统架构设计，以及前后端与智能体功能开发**。
 
-* 新增 `mall-ai` 模块并接入 LangChain4j 与 DeepSeek API
-* 将商品查询、订单查询等业务接口封装为大模型可调用工具
-* 实现自然语言输入、工具选择、业务查询与结构化回复链路
-* 使用 Redis 管理用户 Session 和多轮对话上下文
-* 增加参数校验、结果解析和异常兜底处理
+这个项目让我有机会完整参与从用户调研、需求转化到技术实现和产品交付的过程。
 
-**Keywords**
+其中，我重点参与了以下工作：
 
-`Java` `Spring Boot` `LangChain4j` `Tool Calling` `Redis` `MySQL` `DeepSeek API`
+**01 · 将业务问题转化为 Agent 能力**
 
----
+围绕职业分析、能力诊断和路径规划等场景，设计 Agent 与业务 Service 协同的流程。
 
-### Intelligent QA & Digital Human Assistant
+我们没有让 LLM 直接决定所有结果，而是将语义理解、非结构化信息解析交给大模型，将人岗匹配、Gap 计算及路径评分等关键逻辑交给确定性业务服务执行。
 
-[View Repository](https://github.com/tttdddg/Intelligent-QA)
+这种设计让我对 Agent 工程有了更具体的理解：**Agent 不应该替代所有业务逻辑，而应该能够组织、调用并协调可靠的业务能力。**
 
-面向企业服务场景的 AI 问答与数字人交互前端，支持实时消息、多轮会话、流式内容展示和数字人状态反馈。
+**02 · 构建可持续更新的数据与成长状态**
 
-An AI product frontend for enterprise Q&A and digital-human interaction, supporting real-time messaging, streaming responses, multi-turn conversations, and interaction-state feedback.
+参与标准岗位画像与动态学生画像的设计，使用 `PostgreSQL` 管理职业信息、能力状态和成长记录。
 
-**My Work**
+通过 `JobAgent`、`ProfileService` 等模块，将不同来源的岗位和个人信息转化为结构化数据，并将后续学习、项目与训练反馈重新纳入职业判断。
 
-* 使用 React 与 TypeScript 开发 AI 对话界面
-* 基于 WebSocket 实现实时消息和流式内容展示
-* 实现多轮会话、历史消息、加载状态和异常提示
-* 完成数字人播报状态与问答结果的联动展示
+**03 · 让大模型能力真正进入业务流程**
 
-**Keywords**
+基于 `FastAPI` 构建后端业务接口，结合 `Pydantic`、Tool Calling 和 RAG，完成信息解析、知识检索、工具调用与结果处理。
 
-`React` `TypeScript` `WebSocket` `AI Product Frontend`
+同时，通过 MCP 将业务服务封装为可供智能体调用的工具，探索与蚂蚁百宝箱平台的协同集成。
 
----
+在工程实现中，也关注结构化结果校验、参数验证、超时重试及 Fallback 等可靠性问题。
 
-## 💼 Experience
+**04 · 将 AI 分析结果变成可理解的产品**
 
-### Frontend Development Intern
+基于 `Vue 3`、`TypeScript`、`ECharts` 和 `AntV X6` 开发系统交互与可视化模块，将能力诊断、岗位图谱和成长路径从纯文本分析转化为直观、可操作的产品界面。
 
-参与无人机智能指挥系统与高速上云平台开发，负责智能助手、设备控制、数字沙盘和多媒体交互等模块的前端实现与接口联调。
+#### 技术设计
 
-Worked on drone command and cloud-platform systems, contributing to AI assistant interfaces, device control, digital sand-table visualization, multimedia interaction, and API integration.
+CareerPulse 的一项核心设计是将 **Agent 的灵活性与业务服务的确定性相结合**：
 
-主要实践包括：
+- **Agent 层**：理解意图、编排任务、调用工具和组织回答。
+- **业务 Service 层**：负责匹配评分、能力 Gap、路径规划、训练评价等核心计算。
+- **数据层**：维护岗位画像、个人状态、成长事件与历史反馈。
+- **交互层**：将复杂分析过程转化为用户可理解的可视化结果。
+<img width="1834" height="890" alt="image" src="https://github.com/user-attachments/assets/6d34511b-97b3-47ec-97c1-d8491540ec65" />
 
-* AI 助手对话界面与状态反馈
-* MQTT 设备属性设置与指令联动
-* 文本转语音、音频导入与播放控制
-* 数字沙盘、模型库和媒体库页面
-* 复杂业务状态管理与多接口联调
 
----
 
-## 🌱 What I'm Learning
 
-* Agent workflow design and multi-tool orchestration
-* RAG retrieval evaluation and reranking
-* AI application observability and testing
-* Full-stack architecture for LLM applications
-* Frontend engineering and performance optimization
+#### 一些正在深入的探索
 
----
+除了基础功能，我们还围绕职业规划的长期性开展了两个方向的研究：
 
-## 📫 Contact
+- **能力约束下的职业路径优化**：探索结合能力 Gap、偏好稳定性与路径可执行性的改进型 DPO 方法。
+- **长期记忆与成长上下文管理**：探索结合职业目标、成长事件、阶段任务和情感反馈的分层记忆机制。
 
-* GitHub: [@tttdddg](https://github.com/tttdddg)
-* Email:13822625125@163.com 
-* Email: [yyd9041333@gmail.com](mailto:yyd9041333@gmail.com)
+希望未来的职业智能体不仅能够回答“我适合什么”，还能够记住用户的成长过程，并帮助用户持续推进自己的目标。
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/a3cf3453-a1df-47ad-b94e-9cb44ffb8ca0" />
 
-Open to internship opportunities in:
 
-* AI Application Development
-* Full-Stack Development for AI Products
-* AI Agent / RAG Application Development
-* Frontend Development for AI Products and Data Visualization
+#### 阶段成果
 
+🏆 国家级大学生创新创业训练计划项目
+
+🏆 中国大学生服务外包创新创业大赛全国三等奖
+
+🏆 中国计算机设计大赛省级二等奖
+
+📄 软件著作权 1 项 · 在申发明专利 2 项
+
+[**查看 CareerPulse 源码→**](https://github.com/tttdddg/CareerPulse-v2)
+[**查看更多技术细节 →**](https://vcnfmu2rmdc8.feishu.cn/base/O9QVb6ocia1J4JsHStwci0idnHg?from=from_copylink)
+
+
+
+## 💼 我的实习经历
+
+除了个人与团队项目，我也通过企业实习接触不同类型的业务系统。三段经历让我逐渐从关注界面和功能实现，转向关注完整业务流程、数据质量与 AI 系统的可靠性。
+
+### 🤖 广州海纳千成信息科技有限公司
+
+**AI 应用开发实习生（FDE 方向）｜2026.06 – 2026.09**
+
+在这段实习中，我接触了真实私域销售和课程交付场景下的 Agent 应用。
+
+工作不仅涉及技术，还需要理解业务流程：不同阶段的用户需要什么信息、哪些问题需要检索知识库、什么情况下应转交人工处理。
+
+我参与了销售 SOP 与课程知识的结构化整理、Agent Workflow 设计、RAG 测试及 Bad Case 分析，也参与检索可视化、Prompt 管理等调试功能。
+
+**这段经历让我更加意识到，理解业务、组织知识和评估结果，是让 Agent 真正可用的重要前提。**
+
+[查看实习实践记录](https://vcnfmu2rmdc8.feishu.cn/docx/RwWzdc7cjoiutPxhvx1c5jW0n1f?from=from_copylink)
+
+### 💻 柯易科技有限公司
+
+**前端开发实习生（AI 交互方向）｜2025.10 – 2026.01**
+
+参与无人机智能指挥系统与高速上云平台的开发，接触了 AI 助手、设备控制、数字沙盘以及多媒体交互等场景。
+
+在开发中使用 WebSocket、MQTT 等技术与后端及设备侧协作，也逐渐理解复杂业务状态管理和前后端联调的重要性。
+
+这段经历为我后续开发完整 AI 应用产品提供了前端工程基础。
+
+[查看前端作品集](https://vcnfmu2rmdc8.feishu.cn/wiki/ViCBwIskXihPyFko4ZbcdR10nLe?from=from_copylink)
+
+### 🎙️ 百度智能云（丽水）人工智能数据产业基地
+
+**AI 数据实习生｜2025.07 – 2025.08**
+
+参与方言语音数据的整理、切分、转写、标注及质量检查。
+
+这段经历让我第一次比较系统地接触 AI 数据生产流程，也开始关注数据规范、一致性和质量对下游模型应用的影响。
+
+后来在 RAG 和 Agent 项目中，我也越来越能体会到：**AI 系统的可靠性不仅来自模型本身，也来自背后的数据和知识质量。**
+
+## 🔬 科研项目与创新实践
+
+除了 AI Agent 应用开发，我也参与了一些不同领域的科研与创新实践。这些经历让我有机会接触从数据、算法到实际应用场景的不同问题。
+
+### 🎧 处州乡音 · 丽水方言数智采集与活态传承
+
+**低资源方言 · 多模态数据 · AI + 文化传承**
+
+参与丽水方言语音与文本数据整理、标注规范及质量控制相关实践。
+
+关注语音切分、文本对齐、样本一致性和数据可追溯性，也探索方言语料在 TTS、AI 交互及 NFC 有声文创中的应用。
+
+这是一个让我觉得技术与生活联系非常紧密的方向：让一些可能逐渐消失的地方声音，以数字化形式被记录、使用和传承。
+
+### 🤖 面向智能视觉的管道机器人系统
+
+**Computer Vision · Robotics · Model Evaluation**
+
+参与面向真实管道环境的智能感知系统研究与实验评测。
+
+接触视觉缺陷检测、多传感器定位和通信控制等内容，并围绕不同缺陷类别，对模型的 mAP、FPS 等指标进行比较分析。
+
+这段实践让我开始关注模型指标与真实环境应用之间的联系。
+
+### 💡 知账 · Monad Metropolis Hackathon
+
+**Financial Agent · Agentic Workflow · Product Exploration**
+
+围绕个人财务管理场景参与 Agent 产品设计，尝试将记账、账单、预算、财务目标和 AI 复盘整合为更连续的任务流程。
+
+这次黑客松活动让我开始思考：如何让 AI 从被动聊天工具，逐渐成为能够理解上下文、协助决策并完成任务的个人助手。
+
+## 🛠️ 我的技术工具箱
+
+这里记录我在项目和实践中使用过或正在持续学习的技术。
+
+| 方向          | 技术与工具                                                   |
+| ------------- | ------------------------------------------------------------ |
+| AI Agent      | Agent Workflow、Tool Calling、Structured Output、MCP、Prompt Engineering |
+| RAG / AI 数据 | 文档清洗、Embedding、Vector Retrieval、知识组织、RAG Evaluation |
+| Backend       | Python、FastAPI、Pydantic、Java、Spring Boot、RESTful API    |
+| Database      | PostgreSQL、MySQL、Redis、ChromaDB                           |
+| Frontend      | Vue 3、React、TypeScript、Pinia、ECharts、AntV X6            |
+| Engineering   | Git、Linux、Docker、WebSocket、MQTT                          |
+
+目前更希望深入的方向是 **Python 后端与 Agent 应用工程**，尤其是 Agent 的任务执行、长期状态管理、RAG 效果评估和可靠性建设。
+
+## 🌱 还在学习，也在持续构建
+
+我希望自己不只是会调用模型 API，也能够逐步理解一套 AI 系统为什么这样设计、如何验证其可靠性，以及怎样让它在真实业务中持续工作。
+
+目前比较感兴趣的方向：
+
+- Agent Memory 与上下文管理
+- MCP 与多工具协作
+- RAG 检索质量评估与 Bad Case 分析
+- AI 应用测试、日志追踪和可观测性
+- Python 后端工程与 AI 服务架构
+
+这个主页也会随着新的项目和实践持续更新。
+
+## 📫 联系我
+
+欢迎交流 AI Agent、RAG、全栈应用开发，以及其他有意思的技术与产品想法。
+
+- **GitHub：** [@tttdddg](https://github.com/tttdddg)
+- **Email 1：** [13822625125@163.com](mailto:13822625125@163.com)
+- **Email 2：** [yyd9041333@gmail.com](mailto:yyd9041333@gmail.com)
+
+目前也开放 **AI Agent / AI 应用开发相关的实习机会**，可每周到岗 5 天，连续实习 6 个月以上。
+
+*Keep building, keep learning, and turn ideas into things that work.*
+
+**希望自己写下的不只是代码，也能是一些真正有用的东西。**
