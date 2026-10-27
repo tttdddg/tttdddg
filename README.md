@@ -130,28 +130,6 @@ An AI enhancement project built on the open-source `mall` system, integrating LL
 
 ---
 
-### DocuAgent — 企业知识库 RAG 问答平台
-
-[View Repository](https://github.com/tttdddg/ELKB-QA-System)
-
-面向企业文档问答场景开发的 RAG 应用，完成文档入库、向量检索、上下文增强、答案生成和来源追溯等核心链路。
-
-A RAG-based enterprise knowledge assistant with document ingestion, vector retrieval, context augmentation, answer generation, and source citation.
-
-**My Work**
-
-* 基于 Flask 构建文档管理与问答后端服务
-* 实现文档切分、向量化、ChromaDB Top-K 检索与上下文拼接
-* 返回来源文件、相似度和召回片段，提升答案可追溯性
-* 增加相似度阈值与无答案拒答策略
-* 实现 Top-K 配置、Prompt 模板、问答日志和检索结果展示
-
-**Keywords**
-
-`Python` `Flask` `LangChain` `RAG` `ChromaDB` `MySQL` `Vue 3`
-
----
-
 ### Intelligent QA & Digital Human Assistant
 
 [View Repository](https://github.com/tttdddg/Intelligent-QA)
@@ -204,7 +182,7 @@ Worked on drone command and cloud-platform systems, contributing to AI assistant
 ## 📫 Contact
 
 * GitHub: [@tttdddg](https://github.com/tttdddg)
-* Email: [2091445482@qq.com](mailto:2091445482@qq.com)
+* Email:13822625125@163.com 
 * Email: [yyd9041333@gmail.com](mailto:yyd9041333@gmail.com)
 
 Open to internship opportunities in:
